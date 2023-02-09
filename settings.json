@@ -1,0 +1,46 @@
+{
+  "metaTitle": "Bio!",
+  "metaDescription": "Minha descrição meta.",
+  "name": "Seu Nome",
+  "theme": "glitch",
+  "avatarImage": "https://brothersanimes.loja2.com.br/img/4b9f6fb2848f9ab32b18a58eef44dd12.jpg",
+  "links": [
+    {
+      "url": "https://roberto.tecinovaservicos.com.br",
+      "text": "Botão ideal para você colocar a descrição daquele projeto",
+      "img":"",
+      "altText": "TECiNOVA generative art"
+    },
+    {
+      "url": "https://tecinovaservicos.com.br",
+      "text": "Nosso website",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "spotify": "https://www.spotify.com/br/",
+    "substack": "",
+    "dev": "",
+    "facebook": "https://web.facebook.com/tecinova.top/",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "https://instagram.com/tecinova.top",
+    "linkedin": "https://www.linkedin.com/in/robertotecinova/",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "https://br.pinterest.com/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://www.youtube.com/channel/UCfJaBT65Lo6J4KZpZLtvvrg",
+    "twitch": "",
+    "tiktok": "https://www.tiktok.com/pt-BR",
+    "podcast": "",
+    "soundcloud": "https://soundcloud.com/padrepauloricardo/tracks",
+    "bandcamp": "",
+    "mastodon": "",
+    "stackoverflow": "",
+    "kofi": "",
+    "email": "contato@tecinovaservicos.com.br"
+  }
+}
