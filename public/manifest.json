@@ -1,0 +1,23 @@
+{
+  "name": "Seu Nome",
+  "short_name": "Seu Nome",
+  "description": "",
+  "icons": [
+    {
+      "sizes": "800x800",
+      "type": "image/png",
+      "src": "https://brothersanimes.loja2.com.br/img/4b9f6fb2848f9ab32b18a58eef44dd12.jpg?v=1624643105812",
+      "purpose": "any"
+    },
+    {
+      "sizes": "180x180",
+      "type": "image/png",
+      "src": "https://brothersanimes.loja2.com.br/img/4b9f6fb2848f9ab32b18a58eef44dd12.jpg?v=1633521972305",
+      "purpose": "maskable"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#D7F5EF",
+  "theme_color": "#9480FF",
+  "start_url": "/"
+}
